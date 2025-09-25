@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(void){
-    printf("hello chldnjswo\n");
-
+    printf("hello world!\nhyunseop");
+    
+    int i = 0 ;
+    for( ; i< 10 ; i++){
+        printf("main branch test");
+    }
 }
