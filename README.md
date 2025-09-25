@@ -4,11 +4,11 @@
 
 ## 김한성
 
-\##장원준
+\## 장원준
 
-\##pull request onejun
+\## pull request onejun
 
-\##pull request by onejun
+\## pull request by onejun
 
 ## 최원재
 
